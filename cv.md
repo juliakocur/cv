@@ -61,9 +61,9 @@ ___
 ## ***Education***
 
 + Minsk Innovation University
-+ RS Schools Course "JavaScript/Front-end" Stage 0
-+ RS Schools Course "JavaScript/Front-end" Stage 1,2
-+ RS School Course "React.js"
++ [RS Schools Course "JavaScript/Front-end" Stage 0](https://app.rs.school/certificate/wr68budb)
++ [RS Schools Course "JavaScript/Front-end" Stage 1,2](https://app.rs.school/certificate/etfsm9ka)
++ [RS School Course "React.js"](https://app.rs.school/certificate/enbqplce)
 
 ___
 
