@@ -52,9 +52,9 @@ ___
 
 ## ***My projects***
 
-+ [Momentum](https://rolling-scopes-school.github.io/juliakocur-JSFEPRESCHOOL2022Q4/momentum/)
-+ [Plants](https://rolling-scopes-school.github.io/juliakocur-JSFEPRESCHOOL2022Q4/plants/)
-+ [CV](https://juliakocur.github.io/rsschool-cv/)
++ [RSS-CSS-Selectors](https://juliakocur-rss-css-selectors.netlify.app/)
++ [Shelter](https://rolling-scopes-school.github.io/juliakocur-JSFE2023Q1/shelter/main/main.html)
++ [REACT](https://react-redux-juliakocur.netlify.app/)
 
 ___
 
