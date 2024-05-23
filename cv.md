@@ -11,7 +11,7 @@ ___
 
 ## ***About myself***
 
-I worked as a bank customer service specialist in Belarus for 10 years. Focus on results and communication skills allowed me to implement sales plans. Сurrently I work in the payment department of a large transport company in Poland and and in my free time I continue to improve my programming skills. I believe, that my ability to learn quickly and effectively will lead me through this path of becoming a proficient Frontend Developer.
+I worked as a bank customer service specialist in Belarus for 10 years. Focus on results and communication skills allowed me to implement sales plans. Сurrently I work in the payment department of the large transport company in Poland and in my free time I continue to improve my programming skills. I believe, that my ability to learn quickly and effectively will lead me through this path of becoming a proficient Frontend Developer.
 
 ___
 ## ***Skills***
