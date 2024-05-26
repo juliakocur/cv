@@ -1,15 +1,16 @@
 body {
     font-family: 'Roboto Slab', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 * {
     box-sizing: border-box;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+HTML {
+    scroll-behavior: smooth;
 }
 
 ul {
@@ -21,13 +22,23 @@ a {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 1200px;
     margin: 0px auto;
 }
 
+.section {
+    padding: 10px 20px;
+}
+
 header,
-footer {
-    border: 2px #232323 solid;
+main {
+    border-bottom: 2px #232323 solid;
+}
+
+.nav-list,
+.skills,
+.langages-list {
+    padding: 0;
 }
 
 .nav-list {
@@ -57,13 +68,26 @@ footer {
 }
 
 .section {
-    max-width: 1440px;
+    max-width: 1200px;
     margin: 0px auto;
 }
 
-/* .nav-item {
-    min-width: 130px;
-    background-color: #232323;
-    padding: 10px;
-    border-radius: 5px;
-} */
+.left-side,
+.left-side a {
+    color: white;
+}
+
+.left-side a:hover {
+    border-bottom: 2px white solid;
+}
+
+#profile {
+    display: flex;
+    padding: 0;
+}
+
+.left-header {
+    border-bottom: 2px white solid;
+}
+
+
