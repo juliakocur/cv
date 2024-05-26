@@ -37,7 +37,9 @@ main {
 
 .nav-list,
 .skills,
-.langages-list {
+.langages-list,
+.projects-list,
+.education-list {
     padding: 0;
 }
 
@@ -46,6 +48,7 @@ main {
     justify-content: space-between;
     align-items: center;
     gap: 20px;
+    font-size: 20px;
 }
 
 .nav-list a {
@@ -90,4 +93,10 @@ main {
     border-bottom: 2px white solid;
 }
 
+.right-header {
+    background: linear-gradient(85deg, #232323, white);
+    padding: 5px 10px;
+    color: white;
+    border-radius: 50px;
+}
 
