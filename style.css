@@ -1,0 +1,115 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+HTML {
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.section {
+    padding: 10px 20px;
+}
+
+header,
+main {
+    border-bottom: 2px #232323 solid;
+}
+
+.nav-list,
+.skills,
+.langages-list,
+.projects-list,
+.education-list {
+    padding: 0;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.nav-list a {
+    color: black;
+}
+
+.nav-list a:hover {
+    text-decoration: underline;
+}
+
+.photo {
+    max-width: 300px;
+    margin-top: 30px;
+}
+
+.left-side {
+    max-width: 300px;
+    min-height: 1000px;
+    background-color: #232323;
+}
+
+.section {
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.left-side,
+.left-side a {
+    color: white;
+}
+
+.left-side a:hover {
+    border-bottom: 2px white solid;
+}
+
+#profile {
+    display: flex;
+    padding: 0;
+}
+
+.left-header {
+    border-bottom: 2px white solid;
+}
+
+.right-header {
+    background: linear-gradient(85deg, #232323, white);
+    padding: 10px 15px;
+    color: white;
+    border-radius: 50px;
+}
+
+.about-myself-text {
+    margin: 0;
+}
+
+.footer-content {
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-content img {
+    height: 50px;
+}
